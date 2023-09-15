@@ -1,0 +1,8 @@
+# Ignore everything
+**
+
+# Allow files and directories
+!/target/dependency
+!/target/metadata-service.jar
+!/src
+!pom.xml
